@@ -1,2 +1,2 @@
 # Ludo-Game
-richasrivastav/Ludo-Game
+Ludo-Game
